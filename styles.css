@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    font-weight: bold;
+    color: white;
+}
+
+img {
+    margin-left: 650px;
+    height: auto;
+    width: 500px;
+}
+
+h2,
+h3 {
+    color: white;
+}
+
+p {
+    color: blue;
+}
+
+ul {
+    color: yellow;
+}
+
+ol {
+    font-weight: bold;
+    color: yellowgreen;
+}
